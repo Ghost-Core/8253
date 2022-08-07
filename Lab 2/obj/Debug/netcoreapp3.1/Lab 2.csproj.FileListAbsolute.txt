@@ -1,0 +1,27 @@
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.exe
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.deps.json
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.json
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.dev.json
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.dll
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.pdb
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfoInputs.cache
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfo.cs
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.dll
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.pdb
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.genruntimeconfig.cache
+C:\Users\ganji\OneDrive\Desktop\8253\New folder\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csprojAssemblyReference.cache
+D:\alg\8253\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.exe
+D:\alg\8253\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.deps.json
+D:\alg\8253\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.json
+D:\alg\8253\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.dev.json
+D:\alg\8253\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.dll
+D:\alg\8253\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.pdb
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.AssemblyReference.cache
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfoInputs.cache
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfo.cs
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.CoreCompileInputs.cache
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.dll
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.pdb
+D:\alg\8253\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.genruntimeconfig.cache
